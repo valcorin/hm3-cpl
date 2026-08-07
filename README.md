@@ -1,7 +1,7 @@
 # H&acirc;rn Comprehensive Price Lists (CPL)
-[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm3-cpl)](https://github.com/toastygm/hm3-cpl/releases/latest)
+[![Version (latest)](https://img.shields.io/github/v/release/valcorin/hm3-cpl)](https://github.com/valcorin/hm3-cpl/releases/latest)
 [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm3-cpl&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm3-cpl)
-[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm3-cpl/releases/latest&color=green)](https://github.com/toastygm/hm3-cpl/releases/latest)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/valcorin/hm3-cpl/releases/latest&color=green)](https://github.com/valcorin/hm3-cpl/releases/latest)
 
 This [Foundry VTT](https://foundryvtt.com/) module provides a set of compendium packs containing lists of items from the [Comprehensive Price Lists](https://www.lythia.com/game_aides/comprehensive-pricelist/) on [Lythia.com](https://lythia.com/).  The module is organized into a set of compendium packs, each pack contains the inventory items for a particular vendor (Apothecary, Bonecarver, Chandler, Clothier, etc.).
 
